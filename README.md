@@ -1,5 +1,5 @@
 # markdownEdit
-一个轻量的markdow编辑器，对快速理解英文版的skill.md有很大帮助，支持渲染预览，鼠标悬停单词翻译中文，预览后谷歌浏览器翻译，预览后转html,word,pdf， ，离线全文翻译...
+一个轻量的markdown编辑器，对快速理解英文版的skill.md有很大帮助，支持渲染预览，鼠标悬停单词翻译中文，预览后谷歌浏览器翻译，预览后转html,word,pdf， ，离线全文翻译...
 # MarkdownEdit v0.1.0
 
 轻量 Markdown 编辑器，内置离线英译中。仅支持 64 位 Windows 10/11。
